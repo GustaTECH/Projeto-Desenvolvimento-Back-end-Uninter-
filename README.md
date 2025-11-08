@@ -7,8 +7,8 @@ Aqui está o código-fonte do módulo Back-end que desenvolvi para o Sistema de 
 A ideia foi criar uma API RESTful simples, mas bem estruturada, para mostrar que eu consigo pegar um requisito e transformá-lo em código funcional.
 
 ## Aluno
-*   **Nome:** [Gustavo Farias de Santana]
-*   **RU:** [4528863]
+*   **Nome:** Gustavo Farias de Santana
+*   **RU:** 4528863
 
 ## Minhas Escolhas Técnicas
 Para este projeto, optei por ferramentas que me permitissem focar na lógica do Back-end sem muita complicação de infraestrutura:
